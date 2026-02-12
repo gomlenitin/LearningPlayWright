@@ -1,0 +1,14 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+dist/
+.env
+.DS_Store
+thumbs.db
+.idea/
+.vscode/
+coverage/
+.npm
+package-lock.json
