@@ -1,0 +1,11 @@
+// console.log(username);
+console.log("Pramod is awesome");
+console.log("Pramod is awesome");
+console.log("Pramod is awesome");
+console.log("Pramod is awesome");
+//console.log(username);
+let username = "Dutta";
+console.log("Pramod is awesome");
+console.log("Pramod is awesome");
+console.log("Pramod is awesome");
+console.log(username);
