@@ -16,7 +16,7 @@ This repository contains code and examples for learning Playwright using JavaScr
 ## Structure
 
 -   `Chapter_01_Basics`: Basic Playwright concepts and setup.
--   `Chapter_02_Java_Concept`: Java concepts relevant to testing (if applicable).
+-   `Chapter_02_Java_Concept`: Core JavaScript concepts including Variables, Data Types, Hoisting, Scope (let, var, const), and functions.
 
 ## Running Tests
 
