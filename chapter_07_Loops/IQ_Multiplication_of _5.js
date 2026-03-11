@@ -1,11 +1,11 @@
 console.log("Executing for loop");
 
-// let mul;
+let mul;
 
-// for (let i = 1; i <= 10; i++) {
-//     mul = i * 5;
-//     console.log("Multiplication of 5 * " + i, "=" + mul);
-// }
+for (let i = 1; i <= 10; i++) {
+    mul = i * 5;
+    console.log("Multiplication of 5 * " + i, "=" + mul);
+}
 
 
 console.log("Executing while loop");
