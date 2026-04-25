@@ -18,7 +18,14 @@ const validateStatusCode_Arrow = (status) => {
     }
 }
 
+const validateStatusCode_Arrow1 = (status1) => {
+    if (status1 >= 200 && status1 <= 300)
+        return "Request is fine!";
+    return "Request is Fail!";
+}
+
 
 validateStatusCode(200);
 validateStatusCode_Exp(200);
 validateStatusCode_Arrow(200);
+console.log(validateStatusCode_Arrow1(203));
